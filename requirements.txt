@@ -1,4 +1,5 @@
-streamlit 
-pickle
-string
- nltk
+streamlit
+scikit-learn
+numpy
+pandas
+nltk
