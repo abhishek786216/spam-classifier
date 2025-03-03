@@ -5,9 +5,10 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 
-# Load NLTK resources
-nltk.download('stopwords')
+import nltk
 nltk.download('punkt')
+nltk.download('stopwords')
+
 
 # Initialize the Porter Stemmer
 ps = PorterStemmer()
